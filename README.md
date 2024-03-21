@@ -30,9 +30,7 @@
 ## 📊 Minha atividade
 
 <div align="center">
-    <div align="center">
-      <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api?username=fhernandogamaoliveira&show_icons=true&theme=midnight-purple"></a>
-      <a href="https://github.com/fhernandogamaoliveira"><img src="https://streak-stats.demolab.com?user=fhernandogamaoliveira&mode=weekly&theme=midnight-purple"></a>
-    </div>
+    <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api?username=fhernandogamaoliveira&show_icons=true&theme=midnight-purple"></a>
+    <a href="https://github.com/fhernandogamaoliveira"><img src="https://streak-stats.demolab.com?user=fhernandogamaoliveira&mode=weekly&theme=midnight-purple"></a>
     <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhernandogamaoliveira&layout=compact&langs_count=8&theme=midnight-purple"></a>
 </div>
