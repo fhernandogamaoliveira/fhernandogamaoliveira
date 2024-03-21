@@ -6,11 +6,17 @@
 
 ## ❓ Sobre mim
 
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a euismod tortor. Integer laoreet fermentum tristique. Nullam sollicitudin diam sit amet lacinia porttitor. Nullam eleifend fringilla diam. Aliquam suscipit leo sit amet tempor finibus. Nam pretium laoreet felis quis eleifend. Sed vel vestibulum dui, quis elementum nulla. Suspendisse dapibus augue vel nunc convallis, et aliquet sem congue. Cras sodales molestie mollis. Morbi massa lectus, elementum at congue sit amet, accumsan id massa. Quisque pretium mi ac dolor placerat, et imperdiet orci semper.
 
 ## 🚀 Tecnologias & Ferramentas
 
-<div>
+<div align="center">
+    <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhernandogamaoliveira&layout=compact&langs_count=8&theme=midnight-purple"></a>
+</div>
+
+<br>
+
+<div align="center">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=FFFFFF"/>
@@ -32,5 +38,4 @@
 <div align="center">
     <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api?username=fhernandogamaoliveira&show_icons=true&theme=midnight-purple"></a>
     <a href="https://github.com/fhernandogamaoliveira"><img src="https://streak-stats.demolab.com?user=fhernandogamaoliveira&mode=weekly&theme=midnight-purple"></a>
-    <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhernandogamaoliveira&layout=compact&langs_count=8&theme=midnight-purple"></a>
 </div>
