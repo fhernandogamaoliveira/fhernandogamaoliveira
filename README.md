@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a euismod tortor
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-    <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhernandogamaoliveira&layout=compact&langs_count=8&theme=midnight-purple"></a>
+    <a href="https://github.com/fhernandogamaoliveira"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhernandoGama&layout=compact&langs_count=8&theme=midnight-purple"></a>
 </div>
 
 <br>
